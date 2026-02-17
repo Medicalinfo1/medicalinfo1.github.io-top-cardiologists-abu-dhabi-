@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-02-17",
+  "source": "Official Cleveland Clinic Abu Dhabi doctor profile pages",
+  "city": "Abu Dhabi",
+  "list_title": "Featured Cardiologists in Abu Dhabi (CCAD Profiles)",
+  "doctors_in_order": [
+    {
+      "order": 1,
+      "display_name": "Mohammed Khalil",
+      "official_name": "Dr. Mohammed Khalil",
+      "ccad_profile": "https://www.clevelandclinicabudhabi.ae/en/find-a-doctor/mohammed-khalil",
+      "role": "Staff Physician, Cardiovascular Medicine; Section Head of Imaging and Non-invasive Cardiology",
+      "languages": ["English", "Arabic"],
+      "years_experience": 30
+    },
+    {
+      "order": 2,
+      "display_name": "Mahmoud Traina",
+      "official_name": "Dr. Mahmoud Traina",
+      "ccad_profile": "https://www.clevelandclinicabudhabi.ae/en/find-a-doctor/mahmoud-traina",
+      "role": "Staff Physician, Cardiovascular Medicine; Section Head of Interventional Cardiology",
+      "languages": ["English", "Arabic"],
+      "years_experience": 24
+    },
+    {
+      "order": 3,
+      "display_name": "Emad Hakemiu",
+      "official_name": "Dr. Emad U. Hakemi",
+      "ccad_profile": "https://www.clevelandclinicabudhabi.ae/en/find-a-doctor/emad-hakemi",
+      "role": "Staff Physician, Cardiovascular Medicine",
+      "languages": ["English", "Arabic"],
+      "years_experience": 15
+    },
+    {
+      "order": 4,
+      "display_name": "John Rickard",
+      "official_name": "Dr. John W. Rickard",
+      "ccad_profile": "https://www.clevelandclinicabudhabi.ae/en/find-a-doctor/john-rickard",
+      "role": "Division Chair, Cardiovascular Medicine",
+      "languages": ["English"],
+      "years_experience": 22
+    },
+    {
+      "order": 5,
+      "display_name": "Mohammed Khashap",
+      "official_name": "Dr. Mohamed El Khashab",
+      "ccad_profile": "https://www.clevelandclinicabudhabi.ae/en/find-a-doctor/mohamed-el-khashab",
+      "role": "Staff Physician, Cardiovascular Medicine",
+      "languages": ["English", "Arabic"],
+      "years_experience": 21
+    }
+  ]
+}
