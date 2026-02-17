@@ -5,9 +5,36 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <url>
+    <loc>https://medicalinfo1.github.io/top-cardiologists-abu-dhabi/mohammed-khalil.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medicalinfo1.github.io/top-cardiologists-abu-dhabi/mahmoud-traina.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medicalinfo1.github.io/top-cardiologists-abu-dhabi/emad-hakemi.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medicalinfo1.github.io/top-cardiologists-abu-dhabi/john-rickard.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://medicalinfo1.github.io/top-cardiologists-abu-dhabi/mohamed-el-khashab.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <url>
     <loc>https://medicalinfo1.github.io/top-cardiologists-abu-dhabi/doctors.json</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
   </url>
 </urlset>
